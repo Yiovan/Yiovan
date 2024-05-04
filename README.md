@@ -29,7 +29,7 @@
 
 <h2 >Correos</h2>
 <h3 >
-    Contacto:  x
+   
   </a></h3>
 <!--tech stack icons-->
 <p align="left">
