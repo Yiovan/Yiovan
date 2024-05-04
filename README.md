@@ -22,6 +22,33 @@
   </p>
 <br>
 
+<br>
+<h2>Habilidades</h2>
+<!--Intro start-->
+
+<p align="left">
+
+-ensamblaje de computadoras de sobremesa y notebooks
+-instalacion de programa de ofimatica 
+      y  otros para otro tipo de trabajo
+-habilidad buena de socialización y adaptación del lugar.
+-backup de computadoras 
+-instalacion de sistemas cctv
+-mantenimiento de software
+-mantenimiento de computadoras de sobremesa y notebooks
+-conocimiento de html,css, php 
+-Proactivo
+-buen ambiente laboral
+-social
+-buen negociante 
+-empatico
+-aurodidacta
+
+<!--Intro end-->
+  </p>
+<br>
+
+
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
