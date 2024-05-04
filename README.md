@@ -1,12 +1,12 @@
 <a href="https://www.fethitekyaygil.com">
- 
+ <img src="https://i.pinimg.com/736x/fc/54/0d/fc540dfa8ea8f11a96ec63200c260416.jpg" alt="si">
  </a>
 
-**About Me!**
+**Sobre mi**
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
+- 👨🏽‍💻 Proactivo
+- 🌱 Social
+- 🤔 Capacidad para resolver problemas 
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
