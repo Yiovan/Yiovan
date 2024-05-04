@@ -7,8 +7,6 @@
 
 💻 19 AÑOS DE EDAD
 
-📝 roles en el ámbito: desarrollador,  programador freelance... y en un futuro quién sabe ☺️
-
 
 
 <!--Intro end-->
