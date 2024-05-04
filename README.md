@@ -30,7 +30,7 @@
 <h2 >correos</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" "giovannicabrerarivas@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail,apple" />
   </a>
 </p>
