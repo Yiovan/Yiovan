@@ -1,5 +1,5 @@
 <a href="https://www.fethitekyaygil.com">
- <img src="https://i.pinimg.com/736x/fc/54/0d/fc540dfa8ea8f11a96ec63200c260416.jpg" alt="si">
+ <img src="3TMBVUTaNCG6G71BJjuw34rQqwAsE58cAMBteWw1zxD7" alt="si">
  </a>
 
 **Sobre mi**
@@ -8,7 +8,7 @@
 - 🌱 Social
 - 🤔 Capacidad para resolver problemas 
  
- <img width="30px" src="(https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" /> 
+
  correo(giovannicabrerarivas@icloud.com)
 
 
