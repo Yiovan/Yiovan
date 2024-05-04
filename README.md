@@ -11,7 +11,7 @@
 
 
 <a href="giovannicabrerarivas@icloud.com">
-    <img src="https://skillicons.dev/icons?i=apple,gmail" />
+    <img src="https://skillicons.dev/icons?i=apple" />
     Contacto: giovannicabrerarivas@icloud.com
   </a>
 <br>
