@@ -1,6 +1,3 @@
-<a href="https://www.fethitekyaygil.com">
- <img src="3TMBVUTaNCG6G71BJjuw34rQqwAsE58cAMBteWw1zxD7" alt="si">
- </a>
 
 **Sobre mi**
 
