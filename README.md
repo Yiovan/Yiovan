@@ -17,8 +17,6 @@
 
 💻 EMPECE HACE NO MUCHO EN LA PROGRAMACION
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
 📫 Contacto: **giovannicabrerarivas@icloud.com**
 <!--Intro end-->
   </p>
