@@ -9,9 +9,10 @@
 
 📝 roles en el ámbito: desarrollador,  programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: giovannicabrerarivas@icloud.com
+📫 
 <a href="giovannicabrerarivas@icloud.com">
     <img src="https://skillicons.dev/icons?i=apple,gmail" />
+    Contacto: giovannicabrerarivas@icloud.com
   </a>
 
 <!--Intro end-->
