@@ -27,10 +27,13 @@
 
 <br>
 
-<h2 >correos</h2>
+<h2 >Correos</h2>
+<h3 >
+    Contacto: giovannicabrerarivas@icloud.com, giovannicabrerarivas@gmail.com
+  </a></h3>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev" "giovannicabrerarivas@gmail.com">
+  <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=gmail,apple" />
   </a>
 </p>
