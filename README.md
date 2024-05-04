@@ -1,3 +1,19 @@
+<br>
+<h2>Sobre mi </h2>
+<!--Intro start-->
+
+<p align="left">
+🎓 ESTUDIANTE DE INGENIERIA EN INFORMÁTICA
+
+💻 19 AÑOS DE EDAD
+
+📝 roles en el ámbito: desarrollador,  programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **giovannicabrerarivas@icloud.com**
+<!--Intro end-->
+  </p>
+<br>
+
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
