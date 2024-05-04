@@ -10,6 +10,8 @@
 📝 roles en el ámbito: desarrollador,  programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **giovannicabrerarivas@icloud.com**
+<img src="Apple-Dark.svg">
+
 <!--Intro end-->
   </p>
 <br>
