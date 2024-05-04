@@ -7,8 +7,8 @@
 - 👨🏽‍💻 Proactivo
 - 🌱 Social
 - 🤔 Capacidad para resolver problemas 
-
- <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="si">
+ 
+ <img width="30px" src="(https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" /> 
  correo(giovannicabrerarivas@icloud.com)
 
 
