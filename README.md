@@ -7,8 +7,9 @@
 - 👨🏽‍💻 Proactivo
 - 🌱 Social
 - 🤔 Capacidad para resolver problemas 
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
+
+ 
+ 💬 correo(giovannicabrerarivas@icloud.com)
 
 
 <p style="display: inline-block;" align="center">
