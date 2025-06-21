@@ -1,4 +1,4 @@
-const API_URL = document.body.dataset.api;
+const API_URL = "http://localhost:8000/Backend/api.php";
 
 
 window.onload = () => {
