@@ -1,0 +1,16 @@
+## Guia para abrir la pagina 
+
+#### Get all items
+
+```http
+  php -S localhost:8000
+
+
+```
+
+#### dirigete al repositorio que te mande
+
+
+y pegas este link
+
+http://localhost:8000/frontend/index.html
