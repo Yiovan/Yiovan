@@ -1,4 +1,5 @@
-const API_URL = "./Backend/api.php";
+const API_URL = document.body.dataset.api;
+
 
 window.onload = () => {
     fetchTareas();
