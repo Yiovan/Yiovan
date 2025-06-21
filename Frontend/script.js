@@ -1,4 +1,4 @@
-const API_URL = "./api.php";
+const API_URL = "./Backend/api.php";
 
 window.onload = () => {
     fetchTareas();
