@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'lista';
+$db = 'listas';
 $user = 'cliente'; // o tu usuario
 $pass = '123456789';     // o tu contraseña
 
