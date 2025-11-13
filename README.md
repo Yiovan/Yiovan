@@ -32,7 +32,7 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 | Área | Tecnologías |
 | :--- | :--- |
 | **Backend** | `Python (Flask)`, `Node.js` |
-| **Frontend** | `React`, `JavaScript`, `HTML`, `CSS`, `Vite`, `Tailwind` |
+| **Frontend** | `React`, `JavaScript`, `Tailwind` |
 | **Bases de Datos** | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle` |
 | **DevOps / Infraestructura** | `Linux`, `Hosting`, `Git`, `GitHub`, `VS Code` |
 
