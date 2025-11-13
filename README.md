@@ -19,7 +19,8 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 ## 💼 Experiencia Profesional
 
 **Soporte Telecom - Desarrollador**  
-📅 *Febrero 2025 – Actualidad*  
+📅 *Febrero 2025 – julio 2025
+
 - Desarrollo de módulos backend con **Python (Flask)**.  
 - Implementación de componentes frontend con **React**.  
 - Soporte y mantenimiento de infraestructura en entornos **Linux**.  
