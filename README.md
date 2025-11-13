@@ -1,18 +1,19 @@
-# 👨‍💻 Yiovan — Full Stack Developer
+# 👨‍💻 Yiovan — Full Stack Developer  
 
-Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y experiencia en el desarrollo de aplicaciones **frontend y backend**. Apasionado por la tecnología, la optimización de procesos y la creación de soluciones escalables.  
+<sub><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/developer_mode/default/24px.svg" width="20" /> Desarrollador Full Stack</sub>  
+<sub><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/school/default/24px.svg" width="20" /> Estudiante de Ingeniería en Informática — UNIDA (2023 - Actualidad)</sub>  
 
 ---
 
 ## 🎓 Formación Académica
 
-- **Ingeniería en Informática** — Universidad de Integración de las Américas (UNIDA)  
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/school/default/24px.svg" width="18" /> **Ingeniería en Informática** — Universidad de Integración de las Américas (UNIDA)  
   📅 *2023 – Actualidad*
 
-- **Bachiller Técnico en Informática** — Colegio Técnico Cerro Corá  
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/desktop_windows/default/24px.svg" width="18" /> **Bachiller Técnico en Informática** — Colegio Técnico Cerro Corá  
   📅 *2020 – 2022*
 
-- **Certificación en Python** — Universidad de Integración de las Américas
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/code/default/24px.svg" width="18" /> **Certificado en Python** — Universidad de Integración de las Américas  
 
 ---
 
@@ -20,28 +21,29 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 
 **Soporte Telecom - Desarrollador**  
 📅 *Febrero 2025 – Actualidad*  
-- Desarrollo de módulos backend con **Python (Flask)**.  
-- Implementación de componentes frontend con **React**.  
-- Soporte y mantenimiento de infraestructura en entornos **Linux**.  
-- Administración y optimización de bases de datos relacionales.
+
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/backend/default/24px.svg" width="18" /> Desarrollo backend con **Python (Flask)**.  
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/frontend/default/24px.svg" width="18" /> Implementación de interfaces con **React**.  
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/storage/default/24px.svg" width="18" /> Gestión de bases de datos relacionales.  
+- <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/terminal/default/24px.svg" width="18" /> Administración de servidores **Linux** y despliegues web.
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-| Área | Tecnologías |
+| Categoría | Tecnologías |
 | :--- | :--- |
-| **Backend** | `Python (Flask)`, `Node.js` |
-| **Frontend** | `React`, `JavaScript`, `Tailwind` |
-| **Bases de Datos** | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle` |
-| **DevOps / Infraestructura** | `Linux`, `Hosting`, `Git`, `GitHub`, `VS Code` |
+| <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/settings/default/24px.svg" width="18" /> **Backend** | `Python (Flask)`, `Node.js` |
+| <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/web/default/24px.svg" width="18" /> **Frontend** | `React`, `JavaScript`, `HTML`, `CSS`, `Vite`, `Tailwind` |
+| <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/database/default/24px.svg" width="18" /> **Bases de Datos** | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle` |
+| <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/cloud/default/24px.svg" width="18" /> **DevOps / Infraestructura** | `Linux`, `Hosting`, `Git`, `GitHub`, `VS Code` |
 
 ---
 
 ## 🧩 En Resumen
 
-Soy un desarrollador con enfoque **Full Stack**, orientado a resultados y al aprendizaje continuo.  
-Busco aportar valor mediante soluciones eficientes y bien estructuradas, tanto en el desarrollo web como en la administración de sistemas.
+Soy un desarrollador **Full Stack** con enfoque en soluciones escalables, interfaces limpias y código estructurado.  
+Busco aportar valor mediante proyectos modernos, optimizados y mantenibles.  
 
 ---
 
@@ -49,5 +51,7 @@ Busco aportar valor mediante soluciones eficientes y bien estructuradas, tanto e
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-cabrera-rivas-637481279/) |
-| **Correo** | [giovannicabrerarivas@outlook.com](mailto:giovannicabrerarivas@outlook.com) |
+| <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/link/default/24px.svg" width="18" /> **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-cabrera-rivas-637481279/) |
+| <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/mail/default/24px.svg" width="18" /> **Correo** | [giovannicabrerarivas@outlook.com](mailto:giovannicabrerarivas@outlook.com) |
+
+---
