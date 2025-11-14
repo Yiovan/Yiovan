@@ -38,7 +38,7 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 | **Backend** | `Python (Flask)`, `Node.js`, `Spring Boot`|
 | **Frontend** | `React`, `JavaScript`, `Tailwind` |
 | **Bases de Datos** | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle` |
-| **DevOps / Infraestructura** | `Linux`, `Hosting`, `Git`, `GitHub`, `VS Code` |
+| **DevOps / Infraestructura** | `Linux`, `Docker`, `Git`, `GitHub`, `VS Code` |
 
 ---
 
