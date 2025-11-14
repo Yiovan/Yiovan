@@ -12,6 +12,7 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 - **Bachiller Técnico en Informática** — Colegio Técnico Cerro Corá  
   📅 *2020 – 2022*
 
+- **Certificado en Spring Boot** — Universidad de Integración de las Américas
 - **Certificación en Python** — Universidad de Integración de las Américas
 
 ---
@@ -19,9 +20,11 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 ## 💼 Experiencia Profesional
 
 **Soporte Telecom - Desarrollador**  
-📅 *Febrero 2025 – julio 2025
+📅 *Febrero 2025 – junio 2025
+**Desarrollador Freelance***
+📅 junio 2025 - Actualidad
 
-- Desarrollo de módulos backend con **Python (Flask)**.  
+- Desarrollo de módulos backend con **Node.js**.  
 - Implementación de componentes frontend con **React**.  
 - Soporte y mantenimiento de infraestructura en entornos **Linux**.  
 - Administración y optimización de bases de datos relacionales.
@@ -32,7 +35,7 @@ Desarrollador **Full Stack** con formación en **Ingeniería en Informática** y
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | `Python (Flask)`, `Node.js` |
+| **Backend** | `Python (Flask)`, `Node.js`, `Spring Boot`|
 | **Frontend** | `React`, `JavaScript`, `Tailwind` |
 | **Bases de Datos** | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle` |
 | **DevOps / Infraestructura** | `Linux`, `Hosting`, `Git`, `GitHub`, `VS Code` |
