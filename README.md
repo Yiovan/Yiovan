@@ -14,7 +14,6 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### ![](https://img.shields.io/badge/-Sobre_m%C3%AD-7c3aed?style=flat-square&logo=aboutdotme&logoColor=white) 
 
 ```python
 class Yiovan:
