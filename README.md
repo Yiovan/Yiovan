@@ -105,7 +105,7 @@ class Yiovan:
 
 ## ![](https://img.shields.io/badge/-Experiencia-0f0c29?style=flat-square&logo=briefcase&logoColor=white) 
 
-![](https://img.shields.io/badge/Empresa-Soporte_Telecom-2563eb?style=flat-square&logo=building&logoColor=white) **Desarrollador**
+![](https://img.shields.io/badge/SSD-Soporte_Telecom-y-Desarrollador2563eb?style=flat-square&logo=building&logoColor=white) 
 `Febrero 2025 – Junio 2025`
 
 ![](https://img.shields.io/badge/Actual-Desarrollador_Freelance-7c3aed?style=flat-square&logo=upwork&logoColor=white)
