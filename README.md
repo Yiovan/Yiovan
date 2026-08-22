@@ -21,7 +21,7 @@ class Yiovan:
     nombre     = "Giovanni Cabrera Rivas"
     rol        = ["Data Science Enthusiast", "App Developer"]
     ubicacion  = "Paraguay"
-    formacion  = "Ingenieria en Informatica - UNIDA"
+    formacion  = "Ingenieria en Informatica - Universidad Americana"
 
     stack = {
         "backend":   ["Python (Flask)", "Node.js", "Spring Boot"],
