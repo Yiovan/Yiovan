@@ -96,7 +96,7 @@ class Yiovan:
 
 | ![](https://img.shields.io/badge/Título-4B5563?style=flat-square&logo=bookstack&logoColor=white) | ![](https://img.shields.io/badge/Institución-4B5563?style=flat-square&logo=googlescholar&logoColor=white) | ![](https://img.shields.io/badge/Período-4B5563?style=flat-square&logo=googlecalendar&logoColor=white) |
 |:---|:---|:---|
-| Ingeniería en Informática | UNIDA | 2023 – Actualidad |
+| Ingeniería en Informática | Universidad Americana| 2023 – Actualidad |
 | Bachiller Técnico en Informática | Colegio Técnico Cerro Corá | 2020 – 2022 |
 | Certificado en Spring Boot | UNIDA | ![](https://img.shields.io/badge/Completado-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
 | Certificación en Python | UNIDA | ![](https://img.shields.io/badge/Completado-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
